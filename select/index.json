@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "絢香 / にじいろ Music Video",
+  "base_artist": "絢香",
+  "createdAt": "2026-02-24T05:18:20.230451Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "絢香 / にじいろ",
+      "artist": "Ayaka",
+      "has_synced": true,
+      "path": "select/01_絢香___にじいろ_Ayaka.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Yomigaeri - with 槇原敬之 & 絢香",
+      "artist": "VK Blanka",
+      "has_synced": true,
+      "path": "select/02_Yomigaeri_-_with_槇原敬之_&_絢香_VK_Blanka.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ハートアップ (カラオケバージョン with 絢香 Vocal)",
+      "artist": "絢香 & 三浦大知",
+      "has_synced": true,
+      "path": "select/03_ハートアップ_(カラオケバージョン_with_絢香_Vocal)_絢香_&_三浦大知.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Yomigaeri (with 槇原敬之 & 絢香)",
+      "artist": "ビッケブランカ",
+      "has_synced": true,
+      "path": "select/04_Yomigaeri_(with_槇原敬之_&_絢香)_ビッケブランカ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "絢香 コブクロ",
+      "artist": "絢香 コブクロ",
+      "has_synced": false,
+      "path": "select/pl_01_絢香_コブクロ_絢香_コブクロ.txt"
+    }
+  ]
+}
